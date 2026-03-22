@@ -76,6 +76,7 @@ All API outputs (Q1–Q20) are included in the `screenshots` folder.
 ## 👨‍💻 Author
 
 Name: Prajyot Wadewale
+
 Intern ID: IN226106002
 
 ---
