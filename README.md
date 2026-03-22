@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏋️ Gym Management System (FastAPI)
 
 ## 📌 Project Overview
@@ -83,3 +84,7 @@ Intern ID: IN226106002
 ## 🙌 Acknowledgement
 
 Thanks to Innomatics Research Labs for providing this opportunity to learn FastAPI and backend development.
+=======
+# fastapi-gym-management-system
+FastAPI Gym Management System backend project with CRUD APIs, validation, class booking, and search/sort/pagination features.
+>>>>>>> 92515a395285815c12adab2b1fcfeaf742d2f0c1
